@@ -68,7 +68,7 @@ WeatherDetails.propTypes = {
 };
 
 function App() {
-  let api_key = 'bdf15d98dd8c2f19f84c405fcc41204f';
+  let api_key = '6b67a004abc7a0d2292738ede970e2f6';
 
   const [text, setText] = useState('Chennai')
 
